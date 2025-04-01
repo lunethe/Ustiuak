@@ -1,0 +1,80 @@
+[
+	{
+		"name": "🍬",
+		"cost": 3250,
+		"stock": 1000,
+		"tag": ""
+	},
+	{
+		"name": "🥓",
+		"cost": 6500,
+		"stock": 1000,
+		"tag": ""
+	},
+	{
+		"name": "🧀",
+		"cost": 10500,
+		"stock": 750,
+		"tag": ""
+	},
+	{
+		"name": "♠️",
+		"cost": 24500,
+		"stock": 500,
+		"tag": ""
+	},
+	{
+		"name": "🛡️",
+		"cost": 55000,
+		"stock": 500,
+		"tag": ""
+	},
+	{
+		"name": "☢️",
+		"cost": 100000,
+		"stock": 250,
+		"tag": ""
+	},
+	{
+		"name": "🚀",
+		"cost": 350000,
+		"stock": 100,
+		"tag": "To Space!"
+	},
+	{
+		"name": "🌶️",
+		"cost": 645000,
+		"stock": 70,
+		"tag": "Spicy"
+	},
+	{
+		"name": "🧡",
+		"cost": 1000000,
+		"stock": 30,
+		"tag": "Orange Heart?"
+	},
+	{
+		"name": "🛹",
+		"cost": 6600000,
+		"stock": 20,
+		"tag": "Skateboards!"
+	},
+	{
+		"name": "<:muchlove:1117841764179517463>",
+		"cost": 10000000,
+		"stock": 10,
+		"tag": "<3"
+	},
+	{
+		"name": "<:hehe:1117841755648294993>",
+		"cost": 80000000,
+		"stock": 5,
+		"tag": "<:hehe:1117841755648294993>"
+	},
+	{
+		"name": "🌌",
+		"cost": 250000000,
+		"stock": 3,
+		"tag": "Galactic."
+	}
+]
